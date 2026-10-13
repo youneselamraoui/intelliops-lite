@@ -6,3 +6,4 @@ Groupe :
 Mini-plateforme de traitement d'incidents : trois agents (Extraction, Analyse,
 Notification) qui échangent via un contrat commun (src/contrat.py).
 ## Équipe
+- TARZI ILYAS : agent Filtrage et analyse  (B)
